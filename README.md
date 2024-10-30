@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Web And App Development.
 - 💞️ I’m looking to collaborate on ...
-- A passionate Web Designer and (Front-end Developer) from Karachi;
+-    A passionate Web Designer and (Front-end Developer) from Karachi;
 
 <!---
 anser624/anser624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
