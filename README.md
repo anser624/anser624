@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ansar</h1>
+<h1>Hi 👋, I'm Ansar Malik</h1>
 
 - 👀 I’m interested in Coding.
 
