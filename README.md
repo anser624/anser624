@@ -2,6 +2,43 @@
 
 <h1 align="center">Hi 👋, I'm Ansar</h1>
 
+### 👨‍💻 Aspiring Full Stack Web & App Developer  
+🔹 **Age:** 19 | **Location:** Karachi, Pakistan  
+🔹 **Currently studying** at S.M.I.T Gulshan Campus  
+🔹 Passionate about coding with a focus on **HTML**, **CSS**, **JavaScript**, and currently learning **Full Stack Development**  
+🔹 **Goal:** To become a proficient Full Stack Web & App Developer  
+🔹 **Mentor:** Ali Aftab Sheikh  
+
+---
+
+### 📚 Skills & Learning Journey:
+- **Languages/Technologies**: HTML, CSS, JavaScript  
+- **Currently learning**: Advanced JavaScript and Full Stack Development  
+- **Core values**: Hard work, honesty, and continuous learning  
+
+---
+
+### 💻 Projects:
+I'm working on various coding projects and uploading them to my [GitHub](https://github.com/your-github-username). Feel free to check out my assignments, projects, and contributions!
+
+---
+
+### 💼 Available for Work:
+- **Open for Freelance**: Landing pages, websites, and more!  
+- If you're interested in working with me, feel free to reach out for collaboration or job opportunities.
+
+---
+
+### ⚽ Fun Fact:
+When I'm not coding, I'm into **sports**, especially **cricket**!
+
+---
+
+### Let's Connect!  
+Feel free to reach out or check out my work on GitHub. I’m always open to new projects and collaborations!
+
+<h1 align></h1>
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anser624&label=Profile%20views&color=0e75b6&style=flat" alt="anser624" /> </p>
