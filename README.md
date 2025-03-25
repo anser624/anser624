@@ -28,9 +28,13 @@
 ### 💻 Projects:
 🚀 **Live Projects:**  
 - **Landing Page (React + Tailwind CSS)** → [Live Demo](https://neon-lollipop-3f76af.netlify.app/)  
+- **E-commerce Website** → [Live Demo](https://ecommerce-mini-hackathon.vercel.app/loginpage.html) *(Not fully responsive)*  
 - **GitHub Repo:** [React Projects](https://github.com/anser624/React-Projects)  
 
 📂 **More projects available on my GitHub:** [@anser624](https://github.com/anser624)  
+
+🌐 **Team Portfolio:**  
+🔗 [WebSolution Team](https://websolution-team.netlify.app/)  
 
 ---
 
