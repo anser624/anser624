@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ansar Malik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&pause=1000&color=0F52BA&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Web+%26+App+Developer;Frontend+ReactJS+%7C+TailwindCSS;Passionate+about+Clean+Code+%26+UI%2FUX;Open+for+Freelance+%26+Collaboration!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=4000&pause=1000&color=0F52BA&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Web+%26+App+Developer;Frontend+ReactJS+%7C+TailwindCSS;Passionate+about+Clean+Code+%26+UI%2FUX;Open+for+Freelance+%26+Collaboration!" />
 </p>
 
 
